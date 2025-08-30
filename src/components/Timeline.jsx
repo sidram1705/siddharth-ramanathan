@@ -30,7 +30,7 @@ const workData = [
     institution: "Multicoreware",
     year: "June 2025 - Aug 2025",
     logo: "/images/MulticoreWare.png",
-    description: "..."
+    description: "During my internship at MulticoreWare Inc, I focused on developing and testing AI models for navigation robots and robotic arms on AMD's RyzenAI SDK hardware. My work involved quantizing and deploying these models, making them compatible for both demo robots and simulators. The goal was to deliver an out of the box experience for the client, and prove that AI models can be deployed on their custom NPU chip. This experience allowed me to deepen my understanding of AI model optimization and real time deployment of these models."
   },
   {
     title: "Research Engineer",
